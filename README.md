@@ -1,2 +1,2 @@
 # Calendar
-A calendar application.
+A basic calendar application.
